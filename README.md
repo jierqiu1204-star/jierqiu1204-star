@@ -8,25 +8,23 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-  <img src="https://helio-github-stats.vercel.app/api?username=jierqiu1204-star&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" height="180" />
+## 📊 PROOF IS IN THE NUMBERS
 
-</div>
-
----
-
-## ⏰ WakaTime Coding Stats
-
-<div align="center">
-  <img src="https://helio-github-stats.vercel.app/api/wakatime?username=f8238f9f-7007-4409-9d9a-c4c19de1748d&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&v=20260522" alt="WakaTime Stats" height="180" />
-
-[![wakatime](https://wakatime.com/badge/user/f8238f9f-7007-4409-9d9a-c4c19de1748d.svg)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
+<img src="https://helio-github-stats.vercel.app/api?username=jierqiu1204-star&custom_title=GitHub+Numbers&theme=github_dark&title_color=00C2FF&text_color=5E92C8&icon_color=00C2FF&ring_color=4F8CC9&hide_border=true&locale=en&border_radius=8&card_width=520&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Numbers" height="195" />
 
 <br/>
 <br/>
+
+### ⏱ Total Coding Time
+
+[![Total Coding Time](https://wakatime.com/badge/user/f8238f9f-7007-4409-9d9a-c4c19de1748d.svg)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
+
+<br/>
+<br/>
+
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=f8238f9f-7007-4409-9d9a-c4c19de1748d&custom_title=WakaTime+Language+Time&theme=github_dark&title_color=00C2FF&text_color=5E92C8&icon_color=00C2FF&hide_border=true&layout=compact&langs_count=10&v=20260522-numbers" alt="WakaTime Language Time" height="235" />
 
 </div>
 
