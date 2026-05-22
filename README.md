@@ -29,3 +29,9 @@
 <br/>
 
 </div>
+
+---
+
+## 🌈 Quote of the Day
+
+> *"Code is cheap, show me the prompt"*
