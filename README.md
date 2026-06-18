@@ -19,7 +19,7 @@
 
 ### ⏱ Total Coding Time
 
-[![Total Coding Time](https://wakatime.com/badge/user/f8238f9f-7007-4409-9d9a-c4c19de1748d.svg)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
+[![Total Coding Time](https://img.shields.io/badge/dynamic/json?color=007ec6&label=wakatime&query=%24.data.human_readable_total&url=https%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2Ff8238f9f-7007-4409-9d9a-c4c19de1748d%2Fstats%2Fall_time)](https://wakatime.com/@f8238f9f-7007-4409-9d9a-c4c19de1748d)
 
 <br/>
 <br/>
