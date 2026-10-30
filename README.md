@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jierqiu1204-star&custom_title=GitHub+Stats&theme=github_dark&title_color=00C2FF&text_color=5E92C8&icon_color=00C2FF&ring_color=4F8CC9&hide_border=true&locale=en&border_radius=8&card_width=520&rank_icon=default&show_icons=true&include_all_commits=true" alt="GitHub Stats" height="195" />
+<img src="./profile/stats.svg" alt="GitHub Stats" height="195" />
 
 <br/>
 <br/>
